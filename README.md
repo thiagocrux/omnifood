@@ -19,11 +19,11 @@ This is a landing page of a healthy food delivery app called Omnifood. Natours i
 
 ## :camera: Screenshots
 
-![image](https://user-images.githubusercontent.com/29850573/109428675-d21cd800-79d6-11eb-962a-5533b4b987aa.png)
+![Omnifood](https://user-images.githubusercontent.com/29850573/109428895-e1505580-79d7-11eb-9978-591162ec052a.jpg)
 
 ## :alarm_clock: Status
 
-The project is basically finished but still has some small adjustments related to a few components behaviour.
+Lacking the implementation of responsivity.
 
 ## :pirate_flag: Licence
 
